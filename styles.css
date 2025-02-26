@@ -1,24 +1,24 @@
 li a {
-    text text-decoration: ;
+    text text-decoration: solid;
 }
 
 li a:hover:not(.active) {
     background-color: rgb(255, 169, 11);
 }
 
-.active{
+.active {
     background-color: rgb(171, 171, 209);
 }
-html,body{
+
+html,body {
     background-color: rgb(201, 253, 255);
 }
+
 h1 {
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-shadow: 3px 3px 7px rgb(219, 125, 125);
 }
-
-
 
 ul {
   list-style-type: none;
